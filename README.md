@@ -8,9 +8,9 @@
 
 ## Opportunities
 
-<p>This program executes your commands.
-<p>You can create voice commands.
-<p>Function 'VISUAL CONTROL' can move cursor.
-<p>To use VISUAL CONTROL you should show the web-camera a fist
-<p>Example of fist:
+<p>This program executes your commands.</p>
+<p>You can create voice commands.</p>
+<p>Function 'VISUAL CONTROL' can move cursor.</p>
+<p>To use VISUAL CONTROL you should show the web-camera a fist.</p>
+<p>Example of fist:</p>
 ![alt text]fist1.jpg
