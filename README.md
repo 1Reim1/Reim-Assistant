@@ -1,7 +1,7 @@
 # Reim-Assistant
-<p>This program executes your commands.</p>
-<p>You can create voice commands.</p>
-<p>Function 'VISUAL CONTROL' can move cursor.</p>
-<p>To use VISUAL CONTROL you should show the web-camera a fist</p>
-<p>Example of fist:</p>
+This program executes your commands.
+You can create voice commands.
+Function 'VISUAL CONTROL' can move cursor.
+To use VISUAL CONTROL you should show the web-camera a fist
+Example of fist:
 ![alt text]fist1.jpg
