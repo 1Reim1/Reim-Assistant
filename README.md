@@ -2,8 +2,13 @@
 
 ## Installing
 
-1. install Reim-Assistant you should download the newest version of program.
-2. ds
+1. Download the newest version of program.
+2. Open installer.
+3. Install
+
+## Running
+
+## Opportunities
 
 This program executes your commands.
 You can create voice commands.
