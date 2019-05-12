@@ -4,5 +4,4 @@
 <p>Function 'VISUAL CONTROL' can move cursor.</p>
 <p>To use VISUAL CONTROL you should show the web-camera a fist</p>
 <p>Example of fist:</p>
-
-<link>p {color: red}</link>
+<image src="fist1.jpg">
