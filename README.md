@@ -6,10 +6,6 @@
 2. Open installer.
 3. Install
 
-## Running
-
-dsad
-
 ## Opportunities
 
 This program executes your commands.
