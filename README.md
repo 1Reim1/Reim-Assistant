@@ -11,3 +11,6 @@
 2. Function ```VISUAL CONTROL``` can move cursor. To use ```VISUAL CONTROL``` you should show the web-camera a fist.
 
 <img src="fist1.jpg" width="100" height="75" />
+
+### Warning
+You can't interact with some programs. To do this, you should click on (Help->Restart with admin rights).
