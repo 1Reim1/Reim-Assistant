@@ -13,4 +13,4 @@
 <img src="fist1.jpg" width="100" height="75" />
 
 ## Warning
-You can't interact with some programs. To do this, you should click on (Help->Restart with admin rights).
+You can't interact with some programs. To do this, you should click on ```Help->Restart with admin rights```.
